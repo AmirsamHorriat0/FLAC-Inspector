@@ -7,7 +7,7 @@ FLAC-Inspector is a lightweight command-line tool that analyzes FLAC audio files
 ## Installation
 
 ```bash
-[git clone https://github.com/AmirsamHorriat0/FLAC-Inspector.git](https://github.com/AmirsamHorriat0/FLAC-Inspector.git)
+git clone https://github.com/AmirsamHorriat0/FLAC-Inspector.git
 cd FLAC-Inspector
 ```
 ```pip install -r requirements.txt```
