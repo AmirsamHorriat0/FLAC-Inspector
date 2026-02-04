@@ -1,6 +1,6 @@
 # FlAC-Inspector
 
-![FLAC Inspector Demo](images/demo.png)
+![FLAC Inspector Demo](demo.png)
 
 FLAC-Inspector is a lightweight command-line tool that analyzes FLAC audio files to help determine their authenticity and quality. It provides technical insights such as bitrate, sample rate, bit depth and detects whether a file is truly lossless or potentially upscaled from a lossy source.
 
