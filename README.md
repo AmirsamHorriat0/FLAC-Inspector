@@ -25,7 +25,7 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Always treat results as informed analysis, not absolute proof.
 
 ## License
 
